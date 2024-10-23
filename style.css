@@ -2,4 +2,9 @@
  
     color:white;
     background: red;
- }            
+ }     
+ 
+ header{
+
+   border: solid 2px red;
+ }
